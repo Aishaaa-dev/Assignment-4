@@ -74,4 +74,4 @@ python advisor_gui.py
 ---
 
 **Inference Flow Diagram**
-<img width="1536" height="1024" alt="Copilot_20260605_170906" src="https://github.com/user-attachments/assets/d892bb14-11db-4e5a-8d58-bc339b97bb8a" />
+<img width="2640" height="3100" alt="Blank diagram (3)" src="https://github.com/user-attachments/assets/59f4c574-a02e-4898-885a-bf20956fc0fb" />
