@@ -74,4 +74,4 @@ python advisor_gui.py
 ---
 
 **Inference Flow Diagram**
-<img width="2640" height="3100" alt="Blank diagram (3)" src="https://github.com/user-attachments/assets/59f4c574-a02e-4898-885a-bf20956fc0fb" />
+<img width="2640" height="3100" alt="Blank diagram (3)" src="https://github.com/user-attachments/assets/5bf2accc-27d9-47ae-8b23-2d2f23e44446" />
